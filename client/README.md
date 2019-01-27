@@ -1,6 +1,6 @@
-# client
+# est-web-client
 
-> A Vue.js project
+> A web client for est
 
 ## Build Setup
 
